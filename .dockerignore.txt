@@ -1,0 +1,29 @@
+# Byte‐compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Python test folders
+.pytest_cache/
+
+# IDE/editor metadata
+.vscode/
+.idea/
+
+# Git
+.git
+.gitignore
+
+# Large or transient data you don’t want baked into the image
+*.npy
+output.jpg
+
+# Jupyter notebooks
+*.ipynb
+
+# Dockerfiles themselves (optional)
+Dockerfile*
