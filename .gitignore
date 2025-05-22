@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+env/
+venv/
+
+# IDE folders
+.vscode/
+.idea/
+
+# Build artifacts
+*.npy
+output.jpg
+
+# Notebook
+*.ipynb
